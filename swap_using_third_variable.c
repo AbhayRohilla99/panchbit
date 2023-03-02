@@ -1,4 +1,4 @@
-
+// by abhay rohilla 
 #include <stdio.h>
 
 int main(){
@@ -11,6 +11,9 @@ int main(){
     printf("
 after swapping,a=%d",a);
     printf("after swapping,b=%d",b);
+    
+    
+    
     
     
     
